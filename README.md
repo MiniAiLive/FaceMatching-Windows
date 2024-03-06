@@ -7,35 +7,18 @@
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
 Check the likelihood that two faces belong to the same person. You will get a confidence score and thresholds to evaluate the similarity. Feel free to use our MiniAI Face Matching Windows Demo.
 
-
-> **Note**
->
-> - Our SDK is fully on-premise, processing all happens on hosting server and no data leaves server.
-
-<br></br>
-
 ## Enjoy APP on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.miniai.facematch" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
-
 ## Test Result
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/3b07f850-0606-4d4a-b5cc-e9ed34c1f8e8" alt="Test1" width="160" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/22f41cbd-495b-4d63-b3ef-432da1ea6189" alt="Test2" width="160" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/9a63e231-54fc-4b7e-9d4e-64fe711ada03" alt="Test3" width="160" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/799b16d0-4560-409b-bf6b-3bb6ab3cb5cd" alt="Test4" width="160" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/ada074b6-9f7a-4584-bfe9-1fdf3504fce6" alt="Test5" width="160" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/078c688e-7cb2-4b5b-bf2a-6a97d17df2db" alt="Test6" width="160" />
-
-<br></br>
-
-
-
-https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK/assets/153516004/2ca77947-84ce-438c-8a4f-33426c758742
-
-
-<br></br>
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/511ce21d-8164-4ef4-92ed-b43f76e914d7" alt="Test1" width="320" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/7572ae3d-c7b7-489d-a908-eed8c5077f65" alt="Test2" width="320" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/bbd799d6-dcfc-4017-9e11-cdd3d952c5e6" alt="Test3" width="320" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/b0c7af32-1f2a-4d53-8437-e10520c2823c" alt="Test6" width="320" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/d025d60a-5c26-4c86-b32a-0d48e0f19a89" alt="Test5" width="320" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/54fc4404-6f67-4e53-a1d4-3360e77bf71d" alt="Test5" width="320" />
 
 ## Request license
 Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
@@ -65,7 +48,8 @@ No | Project | Feature
 7 | [MiniAI-Face-LivenessDetection-ServerSDK](https://github.com/MiniAiLive/MiniAI-Face-LivenessDetection-ServerSDK) | 3D Face Passive Liveness
 8 | [MiniAI-Face-Matching-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-AndroidSDK) | 1:1 Face Matching
 9 | [MiniAI-Face-Matching-iOS-SDK](https://github.com/MiniAiLive/MiniAI-Face-Matching-iOS-SDK) | 1:1 Face Matching
-10 | [MiniAI-Face-Attributes-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Attributes-AndroidSDK) | Face Attributes
+10 | [MiniAI-Face-Matching-WindowsDemo](https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo) | 1:1 Face Matching
+11 | [MiniAI-Face-Attributes-AndroidSDK](https://github.com/MiniAiLive/MiniAI-Face-Attributes-AndroidSDK) | Face Attributes
 
 ## About MiniAiLive
 [MiniAiLive](https://www.miniai.live/) is a leading AI solutions company specializing in computer vision and machine learning technologies. We provide cutting-edge solutions for various industries, leveraging the power of AI to drive innovation and efficiency.
