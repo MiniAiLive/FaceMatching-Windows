@@ -13,12 +13,12 @@ Check the likelihood that two faces belong to the same person. You will get a co
 </a>
 
 ## Test Result
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/511ce21d-8164-4ef4-92ed-b43f76e914d7" alt="Test1" width="320" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/7572ae3d-c7b7-489d-a908-eed8c5077f65" alt="Test2" width="320" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/bbd799d6-dcfc-4017-9e11-cdd3d952c5e6" alt="Test3" width="320" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/b0c7af32-1f2a-4d53-8437-e10520c2823c" alt="Test6" width="320" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/d025d60a-5c26-4c86-b32a-0d48e0f19a89" alt="Test5" width="320" />
-<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/54fc4404-6f67-4e53-a1d4-3360e77bf71d" alt="Test5" width="320" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/511ce21d-8164-4ef4-92ed-b43f76e914d7" alt="Test1" width="350" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/7572ae3d-c7b7-489d-a908-eed8c5077f65" alt="Test2" width="350" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/bbd799d6-dcfc-4017-9e11-cdd3d952c5e6" alt="Test3" width="350" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/b0c7af32-1f2a-4d53-8437-e10520c2823c" alt="Test6" width="350" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/d025d60a-5c26-4c86-b32a-0d48e0f19a89" alt="Test5" width="350" />
+<img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/54fc4404-6f67-4e53-a1d4-3360e77bf71d" alt="Test5" width="350" />
 
 ## Request license
 Feel free to [Contact US](https://www.miniai.live/contact/)  to get a trial License.
