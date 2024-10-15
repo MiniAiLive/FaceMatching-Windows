@@ -1,5 +1,5 @@
 <div align="center">
-   <h1> MiniAiLive Face Recognition Windows Demo </h1>
+   <h1>Face Recognition Windows Demo</h1>
    <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
 </div>
@@ -7,12 +7,12 @@
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
 Check the likelihood that two faces belong to the same person. You will get a confidence score and thresholds to evaluate the similarity. Feel free to use our MiniAI Face Matching Windows Demo.
 
-## Enjoy APP on Google Play
+## Face Recognition Android APK
 <a href="https://play.google.com/store/apps/details?id=com.miniai.facematch" target="_blank">
   <img alt="" src="https://user-images.githubusercontent.com/125717930/230804673-17c99e7d-6a21-4a64-8b9e-a465142da148.png" height=80/>
 </a>
 
-## Test Result
+## Face Matching Test Results
 <img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/511ce21d-8164-4ef4-92ed-b43f76e914d7" alt="Test1" width="350" />
 <img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/7572ae3d-c7b7-489d-a908-eed8c5077f65" alt="Test2" width="350" />
 <img src="https://github.com/MiniAiLive/MiniAI-Face-Matching-WindowsDemo/assets/153516004/bbd799d6-dcfc-4017-9e11-cdd3d952c5e6" alt="Test3" width="350" />
@@ -33,13 +33,23 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request to the original repository.
 ```
 
-## Try Online Demo
-Please visit our Face API Web Demo here. https://demo.miniai.live
-<a href="https://demo.miniai.live" target="_blank">
-  <img alt="" src="https://github.com/MiniAiLive/FaceAttributes-Android-SDK/assets/127708602/c47b5628-1d42-406a-a11d-ffb2e59e7b27">
-</a>
+## Face & IDSDK Online Demo, Resources
+<div style="display: flex; justify-content: center; align-items: center;"> 
+   <table style="text-align: center;">
+      <tr>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://github.com/MiniAiLive"><img src="https://miniai.live/wp-content/uploads/2024/10/github-300x95.png" style="height: 80px; margin-right: 5px;" title="GITHUB"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://huggingface.co/MiniAiLive"><img src="https://miniai.live/wp-content/uploads/2024/10/huggingface-300x88.png" style="height: 80px; margin-right: 5px;" title="HuggingFace"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://demo.miniai.live"><img src="https://www.gradio.app/_app/immutable/assets/gradio.CHB5adID.svg" style="height: 80px; margin-right: 5px;" title="Gradio"/></a></td> 
+      </tr> 
+      <tr>
+         <td style="text-align: center; vertical-align: middle;"><a href="https://docs.miniai.live/"><img src="https://miniai.live/wp-content/uploads/2024/10/a-300x70.png" style="height: 80px; margin-right: 5px;" title="Documentation"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://www.youtube.com/@miniailive"><img src="https://miniai.live/wp-content/uploads/2024/10/Untitled-1-300x70.png" style="height: 80px; margin-right: 5px;" title="Youtube"/></a></td> 
+         <td style="text-align: center; vertical-align: middle;"><a href="https://play.google.com/store/apps/dev?id=5831076207730531667"><img src="https://miniai.live/wp-content/uploads/2024/10/googleplay-300x62.png" style="height: 80px; margin-right: 5px;" title="Google Play"/></a></td>
+      </tr>
+   </table>
+</div>
 
-## Related Product
+## Our Products
 No | Project | Feature
 ---|---|---|
 1 | [FaceRecognition-LivenessDetection-Android-SDK](https://github.com/MiniAiLive/FaceRecognition-LivenessDetection) | Face Matching, 3D Face Passive Liveness
